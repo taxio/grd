@@ -13,3 +13,5 @@
 
 .env
 vendor/
+
+build/
